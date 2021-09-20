@@ -6,7 +6,3 @@ workers_dev = true
 route = ""
 zone_id = "b233e1c4e0316e1921defdd2d3ca870b"
 compatibility_date = "2021-09-19"
-
-[vars]
-TWILIO_SID = "TWILIO SID"
-TWILIO_SECRET = "TWILIO BEARER TOKEN"
